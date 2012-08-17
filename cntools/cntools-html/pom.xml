@@ -1,0 +1,37 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.cybernostics.lib</groupId>
+        <artifactId>cntools</artifactId>
+        <version>0.0.2-SNAPSHOT</version>
+    </parent>
+
+	<artifactId>cntools-html</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>jtidy</groupId>
+			<artifactId>jtidy</artifactId>
+			<version>4aug2000r7-dev</version>
+		</dependency>
+	 <dependency>
+	  <groupId>org.xhtmlrenderer</groupId>
+	  <artifactId>core-renderer</artifactId>
+	  <version>R8</version>
+	  <type>jar</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>com.cybernostics.lib</groupId>
+	  <artifactId>cntools-core</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	  <type>jar</type>
+	 </dependency>
+	 <dependency>
+	  <groupId>com.cybernostics.lib</groupId>
+	  <artifactId>cntools-io</artifactId>
+	  <version>0.0.1-SNAPSHOT</version>
+	  <type>jar</type>
+	 </dependency>
+	</dependencies>
+</project>

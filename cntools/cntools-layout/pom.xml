@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.cybernostics.lib</groupId>
+        <artifactId>cntools</artifactId>
+        <version>0.0.2-SNAPSHOT</version>
+    </parent>
+
+  <artifactId>cntools-layout</artifactId>
+  <packaging>jar</packaging>
+  <name>cntools-layout</name>
+  <version>0.0.1-SNAPSHOT</version>
+  <description>Cybernostics Layout Managers</description>
+    <dependencies>
+        <dependency>
+            <groupId>com.cybernostics.lib</groupId>
+            <artifactId>cntools-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>test</scope>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
+</project>

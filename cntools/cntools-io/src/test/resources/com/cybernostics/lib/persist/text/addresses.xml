@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?><properties><property>
+<name>address_1</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>4</month>
+		<day>5</day>
+	    </birthday>
+            <emailaddress>semplery3@joeymail.net</emailaddress>
+            <face>noimage</face>
+            <familiarname>bobber2 from </familiarname>
+            <firstname>bobber2</firstname>
+            <lastname></lastname>
+            <private></private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_2</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>4</month>
+		<day>5</day>
+	    </birthday>
+            <emailaddress>simonsam7@joeymail.net</emailaddress>
+            <face>noimage</face>
+            <familiarname>brindber6 from </familiarname>
+            <firstname>brindber6</firstname>
+            <lastname></lastname>
+            <private></private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_3</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>4</month>
+		<day>5</day>
+	    </birthday>
+            <emailaddress>antoinesni11@joeymail.net</emailaddress>
+            <face>noimage</face>
+            <familiarname>semplesam10 from </familiarname>
+            <firstname>semplesam10</firstname>
+            <lastname></lastname>
+            <private></private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_4</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>5</month>
+		<day>6</day>
+	    </birthday>
+            <emailaddress>contactfirst_1@somehost.com</emailaddress>
+            <face>dfd66450eacaec577247139b564b29d3</face>
+            <familiarname>sandy_1</familiarname>
+            <firstname>contactfirst_1</firstname>
+            <lastname>contactlsst_1</lastname>
+            <private>1</private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_5</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>5</month>
+		<day>6</day>
+	    </birthday>
+            <emailaddress>contactfirst_2@somehost.com</emailaddress>
+            <face>534ae81817847e4a91e70c9b2f2fe067</face>
+            <familiarname>sandy_2</familiarname>
+            <firstname>contactfirst_2</firstname>
+            <lastname>contactlsst_2</lastname>
+            <private>1</private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_6</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>5</month>
+		<day>6</day>
+	    </birthday>
+            <emailaddress>contactfirst_3@somehost.com</emailaddress>
+            <face>56933d79bb6488fe6463cd67c42f90c3</face>
+            <familiarname>sandy_3</familiarname>
+            <firstname>contactfirst_3</firstname>
+            <lastname>contactlsst_3</lastname>
+            <private>1</private>
+        </addressbookitem></value>
+</property>
+<property>
+<name>address_7</name>
+<value>       <addressbookitem>
+            <birthday>
+		<month>5</month>
+		<day>6</day>
+	    </birthday>
+            <emailaddress>contactfirst_4@somehost.com</emailaddress>
+            <face>57942f4030def59691996fc007d1e7a2</face>
+            <familiarname>sandy_4</familiarname>
+            <firstname>contactfirst_4</firstname>
+            <lastname>contactlsst_4</lastname>
+            <private>1</private>
+        </addressbookitem></value>
+</property>
+</properties>

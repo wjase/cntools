@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="12.659152"
+   height="12.659152"
+   id="svg3004">
+  <metadata
+     id="metadata3021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3006">
+    <radialGradient
+       cx="612.47552"
+       cy="354.02478"
+       r="12.659152"
+       fx="613.74139"
+       fy="355.29071"
+       id="rg"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3009"
+         style="stop-color:#ffffff;stop-opacity:0.5"
+         offset="0" />
+      <stop
+         id="stop3011"
+         style="stop-color:#00ffff;stop-opacity:0.5"
+         offset="0.2" />
+      <stop
+         id="stop3013"
+         style="stop-color:#0000ff;stop-opacity:0.5"
+         offset="0.80000001" />
+      <stop
+         id="stop3015"
+         style="stop-color:#0000ff;stop-opacity:0.5"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <circle
+     cx="616.27325"
+     cy="357.82254"
+     r="6.329576"
+     transform="translate(-609.94368,-351.49296)"
+     id="circle3017"
+     style="fill:url(#rg)" />
+</svg>

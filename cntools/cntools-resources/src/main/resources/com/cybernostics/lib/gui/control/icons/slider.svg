@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="602.38696"
+   height="264.6875"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="slider.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3753">
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="0"
+         id="stop3755" />
+      <stop
+         style="stop-color:#550000;stop-opacity:1"
+         offset="1"
+         id="stop3757" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3753"
+       id="linearGradient3761"
+       x1="515.43451"
+       y1="70.785675"
+       x2="515.43451"
+       y2="597.74341"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92857144"
+     inkscape:cx="221.8543"
+     inkscape:cy="144.09941"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-70.71875,-147.25)">
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3771"
+       d="M 679.19772,156.388 76.810747,235.2005 C 77.014817,310.50993 77.099267,240.56154 76.810747,342.263 L 671.73551,420.09919 678.24585,418.21988 679.19772,340.263 675.9187,338.10915 678.15345,332.24941 678.07255,237.2005 679.19772,237.2005 z"
+       style="fill:#000000;fill-opacity:0.61194033;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:url(#linearGradient3761);fill-opacity:1;fill-rule:nonzero;stroke:#784421;stroke-width:4.19999980999999960;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 670.05972,148.773 414.65557,184.73401 396.78747,189.83088 372.43968,190.85674 242.85105,203.5418 192.43274,212.98495 74.536119,225.65234 71.860999,227.96625 C 71.906058,244.5948 72.326036,252.61845 72.356705,258.49473 72.384732,263.86494 72.405611,266.16974 72.417259,268.01297 72.440055,271.6201 71.715165,273.28148 71.201323,292.75545 71.154981,294.51173 72.252606,298.31664 72.210401,300.37717 72.147717,303.43752 70.948121,304.94569 70.898417,308.75665 70.810076,315.53001 71.317,322.42168 71.289875,331.98275 L 73.550455,333.49548 231.92147,354.21574 234.63982,353.8099 237.63455,354.96321 268.14514,358.95502 353.46705,370.118 374.22114,371.99711 664.47412,410.78405 671.58272,411.36638 673.21314,406.02596 674.62872,345.68703 670.05972,341.11804 C 670.05972,341.11804 669.89269,337.66374 670.85415,334.94458 671.52875,333.03668 673.57903,331.76408 673.10572,331.125 671.95784,329.57509 672.78824,328.97115 672.78824,328.97115 L 671.98055,228.0625 673.10572,228.0625 673.10572,162.16563 z"
+       id="rect2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccssssscccccccccccccssccccc" />
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:0.27238805;fill-rule:nonzero;stroke:#000000;stroke-width:3.0999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="slider_box"
+       width="567.05298"
+       height="78.791901"
+       x="88.893417"
+       y="240.19954"
+       rx="0.78510028"
+       ry="0.90144944"
+       inkscape:label="#rect2985" />
+  </g>
+</svg>
